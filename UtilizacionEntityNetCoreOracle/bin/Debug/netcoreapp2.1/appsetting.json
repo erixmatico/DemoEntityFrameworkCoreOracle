@@ -1,0 +1,6 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=(localdb)\\mssqllocaldb;Database=aspnet-Diran.Sicaj-C13865DE-9399-4734-B404-A508DB53813B;Trusted_Connection=True;MultipleActiveResultSets=true",
+    "miStringConexion": "User Id=USUARIO; Password=CONTRASENA; Data Source=NOMBRE_CLUSTER:PUERTO/NOMBRE_SERVICIO; Persist Security Info=True;"
+  }
+}
